@@ -8,7 +8,7 @@
 # Site settings
 title: Colin Hogan
 email: ch1756@s.maynard.k12.ma.us
-description: > # Yep my name is Colin"
+description: Yep my name is Colin
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://maynard-schools.github.io/jekyll-setup-ColinH42/" # the base hostname & protocol for your site
 twitter_username: Taffyer 
