@@ -8,6 +8,9 @@ permalink: /tech/
 How this site was built
 
 ## Built Using:
+
 -Jekyll
+
 -GitHub Pages
+
 -Chromebook
